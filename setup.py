@@ -24,7 +24,7 @@ setup (
     name='regression-model',
     version='0.0.1',
     author='vinay',
-    author_email='vap7306900@gmail.com',
+    author_email='vp7306900@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 
